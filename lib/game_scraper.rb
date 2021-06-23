@@ -197,6 +197,7 @@ require_relative 'scraper.rb'
         when 9
           clear
           puts "Thanks for playing, #{@player.name}! Goodbye."
+          
           puts
           exit
       end

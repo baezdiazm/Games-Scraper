@@ -11,7 +11,7 @@ Add this line to your application's Gemfile:
 ```ruby
 gem 'game_scraper'
 ```
-
+ 
 And then execute:
 
     $ bundle install

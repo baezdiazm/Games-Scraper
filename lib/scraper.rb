@@ -98,5 +98,4 @@ class Scraper
       Games.all.delete(a)
     end
   end
-
 end

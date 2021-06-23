@@ -81,6 +81,6 @@ class Games
         puts Games.all[index].description.values.first
       end
     end
-  
+
   end
   

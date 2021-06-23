@@ -53,6 +53,6 @@ class Person
         puts self.games[index].description.values.first
       end
     end
-  
+
   end
   
