@@ -6,13 +6,13 @@ Users will have the hability to "buy" and "trade" games with an NPC that has the
 
 ## Installation
 
-Add this line to your application's Gemfile:
+#Add this line to your application's Gemfile:
 
-```ruby
-gem 'game_scraper'
-```
+#```ruby
+#gem 'game_scraper'
+#```
  
-And then execute:
+Execute:
 
     $ bundle install
 
